@@ -1,0 +1,26 @@
+{
+  "name": "moment-mini",
+  "version": "1.0.0",
+  "description": "Parse, validate, manipulate, and display dates",
+  "main": "moment-with-locales.custom.js",
+  "typings": "moment.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wmjalak/moment-mini.git"
+  },
+  "keywords": [
+    "moment",
+    "date",
+    "time",
+    "parse",
+    "format",
+    "validate",
+    "i18n",
+    "l10n",
+    "ender"
+  ],
+  "license": "MIT"
+}
